@@ -1,19 +1,23 @@
-.super-mario{
+.super-mario, .goomba, .baloon, .bowser{
     width: 200px;
+}
+
+.super-mario{
+    /* width: 200px; */
     position: absolute;
     left: 50px;
     
 }
 
 .goomba{
-    width: 150px;
+    /* width: 150px; */
     position: absolute;
     top: 400px;
     left: 80px;
 }
 
 .baloon{
-    width: 150px;
+    /* width: 150px; */
     position: absolute;
     top: 350px;
     left: 300px;
@@ -28,7 +32,7 @@
 }
 
 .bowser{
-    width: 200px;
+    /* width: 200px; */
     position: absolute;
     top: 400px;
     left: 450px;
